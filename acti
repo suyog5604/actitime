@@ -1,1 +1,5 @@
 all types of locators
+
+driver.findelementBy.id
+driver.findelementBy.className
+driver.findelementBy.linkText
