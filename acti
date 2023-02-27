@@ -3,3 +3,6 @@ all types of locators
 driver.findelementBy.id
 driver.findelementBy.className
 driver.findelementBy.linkText
+
+driver.manager().window().maximize();
+driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
